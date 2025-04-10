@@ -35,7 +35,7 @@ Image Opt.	next/image
 database	mongodb atlas
 ⚙️ Setup & Usage Instructions
 1. Clone the Repository
-git clone https://github.com/pkkulk/SECURE_SLACK.git cd SECURE_SLACK
+git clone https://github.com/vedikathorat08/SECURE.git cd SECURE_SLACK
 
 2. install dependencies
 cd frontend
